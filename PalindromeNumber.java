@@ -1,3 +1,7 @@
+//utilisation de Java pour changer.
+//auteur: Samit Sabah Adelyar
+
+
 class Solution {
     public boolean isPalindrome(int x) {
         String original = "" + x;

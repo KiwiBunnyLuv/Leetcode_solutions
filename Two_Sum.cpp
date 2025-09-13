@@ -1,3 +1,9 @@
+//
+// cpp utilisé, fairly optimised.
+// auteur: Samit Sabah Adelyar
+//
+//
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
